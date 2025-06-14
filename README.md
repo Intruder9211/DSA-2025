@@ -1,5 +1,5 @@
 # DSA-2025
-# 🧠 30 Days DSA Bootcamp (Python) 🚀
+# 🧠 30 Days DSA (Python) 🚀
 
 Welcome to my personal journey through the **30 Days DSA** using **Python**.  
 This repository tracks my daily progress, notes, and solutions as I build a strong foundation in Data Structures and Algorithms.
@@ -279,7 +279,7 @@ Each day includes readings and coding problems. Status:
 
 ## 🌟 Star this Repo
 
-If you're also doing the bootcamp or find this format helpful, consider starring ⭐ this repo to support and share with others.
+If you're also doing or find this format helpful, consider starring ⭐ this repo to support and share with others.
 
 ---
 
