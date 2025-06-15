@@ -1,0 +1,22 @@
+Python is one of the most commonly used languages and is a user-friendly and easy-to-use general-purpose language. 
+It is an open-source and simple-to-master programming language that was created in the early 1990s. 
+It is a functional programming language most commonly employed to develop machine learning, artificial intelligence, 
+game development, Big Data, GUI-based desktop applications, as well as Robotics. The only drawback is it is not suitable for mobile application development.
+
+Advantages of Python
+Python has an extremely simple syntax and is simple to read, comprehend, and write.
+It is compatible with other languages of programming such as C, C++, and Java.
+Python executes code line-by-line making it easy for the programmer to the mistake that was made in the code.
+Python is a platform-independent language, meaning you can write your code once and execute it everywhere.
+Code
+
+print("Hello, world!")
+OUTPUT:
+
+Hello, world!
+
+Explanation:
+
+The string "Hello, world!" is shown on the console using the built-in print() function in this code.
+
+Strings are encapsulated in single, double, or triple quotations in Python. We can display texts, integers, equations, and more with the print() method.
