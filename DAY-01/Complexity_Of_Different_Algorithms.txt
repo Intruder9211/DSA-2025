@@ -1,0 +1,41 @@
+*Time Complexity Of Sorting Algorithms*
+Understanding the time complexity of different sorting techniques will lead to a good understanding of the time complexity.
+
+1. Selection Sort
+It has O(n^2) time complexity in the best case, the average case as well as in the worst case.
+
+2. Merge Sort
+It has O(NlogN) time complexity in the best case, the average case as well as in the worst case.
+
+3. Bubble Sort
+This is the simplest sorting algorithm. it has an O(n^2) time complexity in both the worst as well as best-case.
+
+4. Quick Sort
+It has O(NlogN) complexity in the best and average case. But in the worst case, it becomes O(N^2).
+
+5. Heap Sort
+It has O(NlogN) time complexity in the best case, the average case as well as in the worst case.
+
+6. Bucket Sort
+It has O(N+k) complexity in the best and average case. But in the worst case, it becomes O(N^2).
+
+7. Insertion Sort
+The time complexity of the insertion sort algorithm in the best case is O(n) and in the worst case, it is O(n^2).
+
+Time Complexity Of Searching Algorithms
+Let's delve into the time complexity of various search algorithms.
+
+Time Complexity of Linear Search Algorithm
+Linear search is also called a sequential search algorithm. It is the simplest search algorithm. In Linear search, we simply traverse the list completely and match each element of the list with the item whose location is to be found. If the match is found, then the location of the item is returned; otherwise, the algorithm returns NULL. Its time complexity in different scenarios is as follows:
+
+Case	Time Complexity
+Best Case	O(1)
+Average Case	O(n)
+Worst Case	O(n)
+Time Complexity of Binary Search Algorithm
+Binary Search is an efficient searching algorithm specifically designed for sorted arrays. It works by dividing the search interval in half at each step, utilizing the fact that the array is already sorted. This approach drastically reduces the time complexity to O(log N), making it highly efficient for large arrays. It's time complexities in different scenarios are as follows:
+
+Case	Time Complexity
+Best Case 	O(1)
+Average case	O(logN)
+Worst Case	O(logN)
