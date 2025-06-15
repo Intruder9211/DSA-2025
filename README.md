@@ -24,17 +24,17 @@ Each day includes readings and coding problems. Status:
 ---
 
 ### DAY 1: INTRODUCTION TO PROGRAMMING  
-🔼 Basics of Programming  ✅
-📖 Reading ✅
-📖 Complexity Of Different Algorithms ✅
-💻 Coding Question 1 — ✅ 
-💻 Coding Question 2 ✅  
+🔼 Basics of Programming ✅ 
+📖 Reading ✅ `pending icon`  
+📖 Complexity Of Different Algorithms ✅ `pending icon`  
+💻 Coding Question 1 — ✅ `Score : 100/100`  
+💻 Coding Question 2 ✅ `pending icon`  
 
 ---
 
 ### DAY 2: BASICS OF ARRAYS  
 🔼 Learn about arrays  
-📖 Reading ✅ `pending icon`  
+📖 Reading ⏳ `pending icon`  
 💻 Coding Question 1 ⏳ `pending icon`  
 💻 Coding Question 2 ⏳ `pending icon`  
 💻 Coding Question 3 ⏳ `pending icon`  
