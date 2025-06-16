@@ -35,9 +35,9 @@ Each day includes readings and coding problems. Status:
 ### DAY 2: BASICS OF ARRAYS  
 🔼 Learn about arrays  
 📖 Reading ⏳ `pending icon`  
-💻 Coding Question 1 ⏳ `pending icon`  
-💻 Coding Question 2 ⏳ `pending icon`  
-💻 Coding Question 3 ⏳ `pending icon`  
+💻 Coding Question 1 ✅ `pending icon`  
+💻 Coding Question 2 ✅ `pending icon`  
+💻 Coding Question 3 ✅ `pending icon`  
 
 ---
 
