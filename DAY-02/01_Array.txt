@@ -1,0 +1,51 @@
+🧩 1. Creating and Printing a List (Basic Array)
+In Python, a list is the most common array-like structure:
+
+python
+Copy
+Edit
+arr = [10, 20, 30, 40, 50]
+print(arr)  # Output: [10, 20, 30, 40, 50]
+You can access elements:
+
+python
+Copy
+Edit
+print(arr[0])  # First element → 10
+🧩 2. Using array from the array Module
+The array module offers typed arrays:
+
+python
+Copy
+Edit
+import array
+
+arr = array.array('i', [1, 2, 3, 4])  # 'i' = integer
+print(arr.tolist())  # Output: [1, 2, 3, 4]
+🧩 3. Using numpy.array (More Powerful Arrays)
+NumPy is better for numerical data and multi-dimensional arrays:
+
+python
+Copy
+Edit
+import numpy as np
+
+arr = np.array([1, 2, 3, 4])
+print(arr)           # [1 2 3 4]
+print(arr[1])        # 2
+print(arr.dtype)     # int64 (depending on system)
+Multi-dimensional example:
+
+python
+Copy
+Edit
+arr2d = np.array([[1, 2], [3, 4]])
+print(arr2d)
+# [[1 2]
+#  [3 4]]
+🧩 4. Iterating Through Contents of an Array/List
+python
+Copy
+Edit
+for item in arr:
+    print(item)
