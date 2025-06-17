@@ -42,10 +42,10 @@ Each day includes readings and coding problems. Status:
 ---
 
 ### DAY 3: ARRAYS OPERATIONS  
-💻 Coding Question 1 ⏳  
-💻 Coding Question 2 ⏳  
-💻 Coding Question 3 ⏳  
-💻 Coding Question 4 ⏳  
+💻 Coding Question 1 ✅  
+💻 Coding Question 2 ✅  
+💻 Coding Question 3 ✅  
+💻 Coding Question 4 ✅  
 
 ---
 
