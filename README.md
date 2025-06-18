@@ -50,9 +50,9 @@ Each day includes readings and coding problems. Status:
 ---
 
 ### DAY 4: SUBARRAYS  
-💻 Coding Question 1 ⏳  
-💻 Coding Question 2 ⏳  
-💻 Coding Question 3 ⏳  
+💻 Coding Question 1 ✅  
+💻 Coding Question 2 ✅  
+💻 Coding Question 3 ✅  
 
 ---
 
