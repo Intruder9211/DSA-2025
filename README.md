@@ -58,9 +58,9 @@ Each day includes readings and coding problems. Status:
 
 ### DAY 5: SLIDING WINDOW TECHNIQUE  
 📖 Understanding Sliding Window Technique ⏳  
-💻 Coding Question 1 ⏳  
-💻 Coding Question 2 ⏳  
-💻 Coding Question 3 ⏳  
+💻 Coding Question 1 ✅  
+💻 Coding Question 2 ✅  
+💻 Coding Question 3 ✅  
 💻 Coding Question 4 ⏳  
 
 ---
