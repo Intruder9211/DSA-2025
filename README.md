@@ -18,7 +18,7 @@ This repository tracks my daily progress, notes, and solutions as I build a stro
 
 Each day includes readings and coding problems. Status:
 - ✅ `completed icon`: Task is done
-- ⏳ `pending icon`: Task yet to be completed
+- ⏳ `pending icon`: Task yet to be completed'
 - Starts 🚩 '15 june 2025'
 
 ---
