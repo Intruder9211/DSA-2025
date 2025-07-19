@@ -1,0 +1,229 @@
+✅                                   ⚡
+  📌 1. Arrays & Strings (15 Questions)
+  
+Two Sum — Easy
+
+Best Time to Buy and Sell Stock — Easy
+
+Contains Duplicate — Easy
+
+Product of Array Except Self — Medium
+
+Maximum Subarray — Easy
+
+Move Zeroes — Easy
+
+Rotate Array — Medium
+
+Valid Anagram — Easy
+
+Longest Substring Without Repeating Characters — Medium
+
+Group Anagrams — Medium
+
+Top K Frequent Elements — Medium
+
+Longest Palindromic Substring — Medium
+
+Encode and Decode Strings — Medium
+
+Set Matrix Zeroes — Medium
+
+Spiral Matrix — Medium
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 2. Hashing (6 Questions)
+  
+Intersection of Two Arrays — Easy
+
+Happy Number — Easy
+
+Isomorphic Strings — Easy
+
+Subarray Sum Equals K — Medium
+
+Longest Consecutive Sequence — Medium
+
+Copy List with Random Pointer — Medium
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 3. Two Pointers (6 Questions)
+  
+Valid Palindrome — Easy
+
+Reverse String — Easy
+
+Container With Most Water — Medium
+
+3Sum — Medium
+
+Trapping Rain Water — Hard
+
+Remove Duplicates from Sorted Array — Easy
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 4. Sliding Window (5 Questions)
+  
+Maximum Average Subarray I — Easy
+
+Minimum Size Subarray Sum — Medium
+
+Longest Repeating Character Replacement — Medium
+
+Permutation in String — Medium
+
+Sliding Window Maximum — Hard
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 5. Linked List (8 Questions)
+  
+Reverse Linked List — Easy
+
+Merge Two Sorted Lists — Easy
+
+Palindrome Linked List — Easy
+
+Linked List Cycle — Easy
+
+Intersection of Two Linked Lists — Easy
+
+Add Two Numbers — Medium
+
+Copy List with Random Pointer — Medium
+
+Merge k Sorted Lists — Hard
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 6. Stack & Queue (8 Questions)
+  
+Valid Parentheses — Easy
+
+Min Stack — Medium
+
+Daily Temperatures — Medium
+
+Evaluate Reverse Polish Notation — Medium
+
+Implement Queue using Stacks — Easy
+
+Implement Stack using Queues — Easy
+
+Decode String — Medium
+
+Next Greater Element I — Easy
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 7. Trees & Binary Trees (12 Questions)
+  
+Maximum Depth of Binary Tree — Easy
+
+Invert Binary Tree — Easy
+
+Same Tree — Easy
+
+Subtree of Another Tree — Easy
+
+Diameter of Binary Tree — Easy
+
+Balanced Binary Tree — Easy
+
+Binary Tree Level Order Traversal — Medium
+
+Validate Binary Search Tree — Medium
+
+Kth Smallest Element in BST — Medium
+
+Lowest Common Ancestor of BST — Easy
+
+Serialize and Deserialize Binary Tree — Hard
+
+Binary Tree Maximum Path Sum — Hard
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 8. Heap/Priority Queue (5 Questions)
+  
+Kth Largest Element in an Array — Medium
+
+Top K Frequent Elements — Medium
+
+Find Median from Data Stream — Hard
+
+Merge k Sorted Lists — Hard
+
+Task Scheduler — Medium
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 9. Graphs (8 Questions)
+  
+Number of Islands — Medium
+
+Clone Graph — Medium
+
+Course Schedule — Medium
+
+Pacific Atlantic Water Flow — Medium
+
+Number of Connected Components in an Undirected Graph — Medium
+
+Graph Valid Tree — Medium
+
+Word Ladder — Hard
+
+Reconstruct Itinerary — Hard
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 10. Backtracking (5 Questions)
+  
+Subsets — Medium
+
+Combination Sum — Medium
+
+Permutations — Medium
+
+Word Search — Medium
+
+N-Queens — Hard
+
+📌 11. Dynamic Programming (10 Questions)
+  -------------------------------------------------------------------------------------------------------------------------------------------------
+Climbing Stairs — Easy
+
+House Robber — Medium
+
+House Robber II — Medium
+
+Longest Palindromic Subsequence — Medium
+
+Coin Change — Medium
+
+Longest Increasing Subsequence — Medium
+
+Decode Ways — Medium
+
+Unique Paths — Medium
+
+Edit Distance — Hard
+
+Regular Expression Matching — Hard
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 12. Greedy (3 Questions)
+  
+Jump Game — Medium
+
+Gas Station — Medium
+
+Candy — Hard
+
+📌 13. Bit Manipulation (3 Questions)
+  -------------------------------------------------------------------------------------------------------------------------------------------------
+Single Number — Easy
+
+Number of 1 Bits — Easy
+
+Counting Bits — Easy
+-------------------------------------------------------------------------------------------------------------------------------------------------
+📌 14. Math & Misc (6 Questions)
+  
+Pow(x, n) — Medium
+
+Multiply Strings — Medium
+
+Rotate Image — Medium
+
+Spiral Matrix II — Medium
+
+Sudoku Solver — Hard
+
+LFU Cache — Hard
+
