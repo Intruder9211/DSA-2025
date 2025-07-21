@@ -1,7 +1,7 @@
 ✅                                   ⚡
   📌 1. Arrays & Strings (15 Questions)
   
-Two Sum — Easy
+Two Sum — Easy✅
 
 Best Time to Buy and Sell Stock — Easy
 
