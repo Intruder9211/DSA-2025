@@ -5,7 +5,7 @@ Two Sum — Easy✅
 
 Best Time to Buy and Sell Stock — Easy✅
 
-Contains Duplicate — Easy
+Contains Duplicate — Easy✅
 
 Product of Array Except Self — Medium
 
