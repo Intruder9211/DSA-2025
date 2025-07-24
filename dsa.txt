@@ -7,7 +7,7 @@ Best Time to Buy and Sell Stock — Easy✅
 
 Contains Duplicate — Easy✅
 
-Product of Array Except Self — Medium
+Product of Array Except Self — Medium✅
 
 Maximum Subarray — Easy
 
