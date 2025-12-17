@@ -1,0 +1,16 @@
+# LeetCode Java Solutions
+
+Java solutions for LeetCode problems while preparing for QA Automation roles.
+
+## Problems Solved
+### Easy
+- 1929 Concatenation of Array
+- 1480 Running Sum of 1D Array
+- 2114 Maximum Number of Words
+- 1108 Defanging an IP Address
+- 1672 Richest Customer Wealth
+
+### Medium
+- 151 Reverse Words in a String
+- 3 Longest Substring Without Repeating Characters
+- 560 Subarray Sum Equals K
