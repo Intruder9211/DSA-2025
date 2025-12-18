@@ -1,0 +1,11 @@
+# LeetCode Java Solutions
+
+Java solutions for LeetCode problems while preparing for QA Automation roles.
+
+## Problems Solved
+### Easy
+🔹 #217 – Contains Duplicate
+🔹 #242 – Valid Anagram
+🔹 #349 – Intersection of Two Arrays
+🔹 #268 – Missing Number
+
